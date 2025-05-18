@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Abhay Raj Rathi
 
-<!--
-**Rathimax/Rathimax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Full Stack Web Developer** skilled in building dynamic, responsive web applications using the **MERN Stack (MongoDB, Express.js, React, Node.js)**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 B.Tech student who loves to code and solve real-world problems
+- 💻 Full Stack Developer | JavaScript | TypeScript
+- 🌐 Currently working on personal and freelance MERN projects
+- 🔍 Always learning new tools and technologies
+- 📫 Reach me at: abhayrajrathi616@gmail.com
+
+---
+
